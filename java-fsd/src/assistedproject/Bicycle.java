@@ -39,9 +39,7 @@ class MountainBike extends Bicycle
         return (super.toString()+ 
                 "\nseat height is "+seatHeight); 
     } 
-}
-public class test
-{ 
+
     public static void main(String args[])  
     { 
         MountainBike mb = new MountainBike(3, 100, 25); 
