@@ -1,4 +1,6 @@
-package practice_project6;
+package assistedproject;
+
+
 
 public class InvalidScoreException extends Exception {
 
